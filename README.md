@@ -4,5 +4,3 @@
 
 ## 🖼️ Preview
 ![preview](./assets/preview.png)
-
-notfinish Bro
