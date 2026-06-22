@@ -1,13 +1,13 @@
-# 🐱 GarfieldOS Dotfiles
+# 🐱 กาฟิวOS Dotfiles "GarfieldOS Dotfiles"
 
-🚧 Prototype Hyprland setup
+🚧 เป็น prototype นะครับผม**ผมอาจจะขี้โม้ก็ได้ครับ555**
 
 ## 🖼️ Preview
 ![preview](260622_13h59m19s_screenshot-1.png)
 
 ---
 
-## 🇺🇸 English
+## 🇺🇸 เวอร์ชั่นอังกฤษ
 
 This project is a **dotfiles configuration for Hyprland on Arch Linux**.
 
