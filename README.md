@@ -4,3 +4,24 @@
 
 ## 🖼️ Preview
 ![preview](260622_13h59m19s_screenshot-1.png)
+
+---
+
+## 🇺🇸 English
+
+This project is a **dotfiles configuration for Hyprland on Arch Linux**.
+
+It includes basic setup files for customizing the desktop environment, such as window management, bar, and launcher.
+
+This project is still in development and may be changed or improved over time.
+
+---
+
+## 🇹🇭 ภาษาไทย
+
+โปรเจกต์นี้เป็นชุด **dotfiles สำหรับ Hyprland บน Arch Linux**
+
+ใช้สำหรับตั้งค่าระบบเดสก์ท็อป เช่น การจัดการหน้าต่าง แถบด้านบน และตัว launcher
+
+โปรเจกต์นี้ยังอยู่ระหว่างการพัฒนา และอาจมีการปรับปรุงหรือเปลี่ยนแปลงในอนาคตนะครับผม
+
