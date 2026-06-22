@@ -49,8 +49,8 @@ hl.window_rule({
 -- Apps
 local primaryWorkspace = 1
 
-hl.window_rule({ match = { class = "^(.*\\.exe)$", float = true }, primaryWorkspace, center = true, fullscreen_state = 0 })
-hl.window_rule({ match = { class = "^(vesktop|discord)$" }, primaryWorkspace })
+hl.window_rule({ match = { class = "^(.*\\.exe)$", float = true }, workspace = primaryWorkspace, center = true, fullscreen_state = 0 })
+hl.window_rule({ match = { class = "^(vesktop|discord)$" }, workspace = primaryWorkspace })
 hl.window_rule({ match = { class = "^(.*[Cc]alculator.*)$" }, float = true, size = "380 616" })
 hl.window_rule({ match = { class = "^(org.kde.keditfiletype)$" }, float = true })
 hl.window_rule({ match = { class = "^(org.kde.ark)$" }, size = "(monitor_w*0.40) (monitor_h*0.40)" })
