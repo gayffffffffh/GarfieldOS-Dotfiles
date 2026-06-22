@@ -1,5 +1,4 @@
-สวัสดีครับ นี่เป็น Dotfiles ที่ผมตั้งใจทำมากเลยครับ ขออนุญาตใช้ source code ของ HyDE นะครับผม
-code ยังไม่สำเร็จนะครับ
+
 
 # 🐱 กาฟิวOS Dotfiles "GarfieldOS Dotfiles"
 
