@@ -15,7 +15,7 @@ It includes basic setup files for customizing the desktop environment, such as w
 
 This project is still in development and may be changed or improved over time.
 We are not responsible for any computer malfunctions because it is still unstable.
-It's 100% open source; you can modify any part of the code.
+**It's 100% open source; you can modify any part of the code**
 
 ---
 
