@@ -14,6 +14,8 @@ This project is a **dotfiles configuration for Hyprland on Arch Linux**.
 It includes basic setup files for customizing the desktop environment, such as window management, bar, and launcher.
 
 This project is still in development and may be changed or improved over time.
+We are not responsible for any computer malfunctions because it is still unstable.
+It's 100% open source; you can modify any part of the code.
 
 ---
 
